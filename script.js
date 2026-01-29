@@ -123,5 +123,6 @@ document.addEventListener('DOMContentLoaded', () => {
         updateProduct(currentIndex);
     });
 
-
+    // Initialize the first product
+    updateProduct(currentIndex);
 });
