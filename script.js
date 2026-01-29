@@ -123,9 +123,5 @@ document.addEventListener('DOMContentLoaded', () => {
         updateProduct(currentIndex);
     });
 
-    // Simple menu toggle
-    const menuBtn = document.getElementById('menu-btn');
-    menuBtn.addEventListener('click', () => {
-        console.log('Menu clicked');
-    });
+
 });
