@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const title = document.querySelector('.title');
     const subtitle = document.querySelector('.subtitle');
     const productImg = document.querySelector('.product-img');
-    const splashImg = document.querySelector('.splash-img');
     const prevBtn = document.getElementById('prev-btn');
     const nextBtn = document.getElementById('next-btn');
 
